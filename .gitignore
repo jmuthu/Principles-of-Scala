@@ -1,0 +1,10 @@
+# Assignment libraries
+lib_managed
+
+# SBT
+target
+
+# Eclipse
+.classpath
+.project
+.settings
